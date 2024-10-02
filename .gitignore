@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+
+ade_classifier_model-pytorch-default-v1/
+all-mpnet-base-v2/
+dataset/
+sent_index/
